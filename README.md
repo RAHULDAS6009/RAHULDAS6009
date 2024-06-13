@@ -1,6 +1,6 @@
 # Hi there, I'm [Rahul Das] 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=RAHULDAS6009&color=blue)
 
 ## 🚀 About Me
 
