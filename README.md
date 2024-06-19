@@ -11,7 +11,7 @@ I'm a passionate developer with a love for learning and building innovative solu
 - 👯 I’m looking to collaborate on [Full stack,Blockchain]
 - 💬 Ask me about [Full Stack]
 - 📫 How to reach me: [das206053@gmail.com]
-- 😄 Pronouns: [He/Him]
+
 
 ## 🛠️ Languages and Tools
 
