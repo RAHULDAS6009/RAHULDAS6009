@@ -29,9 +29,9 @@ I'm a passionate developer with a love for learning and building innovative solu
 
 
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHULDAS6009&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULDAS6009&theme=gruvbox&hide_border=true" alt="RAHULDAS6009's GitHub Stats" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULDAS6009&layout=compact&theme=radical)
 
