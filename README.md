@@ -6,7 +6,6 @@
 
 I'm a passionate developer with a love for learning and building innovative solutions. I enjoy working on collaborative projects and always look forward to new challenges.
 
-- 🔭 I’m currently working on [P5js web editor]
 - 🌱 I’m currently learning [Web3]
 - 👯 I’m looking to collaborate on [Full stack,Blockchain]
 - 💬 Ask me about [Full Stack]
