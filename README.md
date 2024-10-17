@@ -20,10 +20,14 @@ I'm a passionate developer with a love for learning and building innovative solu
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-[![Hono](https://img.shields.io/badge/-Hono-000000?style=flat-square&logo=honoserv&logoColor=white)](https://hono.dev/api/hono)
+[![Hono](https://img.shields.io/badge/Hono-E36002.svg?style=flat-square&logo=Hono&logoColor=white)](https://hono.dev/api/hono)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=flat-square&logo=Amazon-EC2&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=flat-square&logo=Prisma&logoColor=white)
+![Cloudfare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020.svg?style=flat-square&logo=Cloudflare-Workers&logoColor=white)
+
 
 
 
