@@ -1,4 +1,4 @@
-# Hi there, I'm [Rahul Das] 👋
+# Hi there, I'm Rahul 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RAHULDAS6009&color=blue)
 
