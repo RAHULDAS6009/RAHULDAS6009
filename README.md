@@ -35,7 +35,7 @@ I'm a passionate developer with a love for learning and building innovative solu
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RAHULDAS6009&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=RAHULDAS6009)](https://git.io/streak-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULDAS6009&layout=compact&theme=radical)
 
